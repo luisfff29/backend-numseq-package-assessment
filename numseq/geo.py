@@ -3,7 +3,7 @@ def square(n):
 
 
 def triangle(n):
-    if n != 0 and n != 1:
+    if n > 1:
         constant = 2
         result = 1
         for _ in range(n-1):
