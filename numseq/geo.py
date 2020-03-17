@@ -15,4 +15,4 @@ def triangle(n):
 
 
 def cube(n):
-    pass
+    return n*n*n
