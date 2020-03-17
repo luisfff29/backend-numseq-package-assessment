@@ -1,5 +1,5 @@
 def square(n):
-    pass
+    return n**2
 
 
 def triangle(n):
